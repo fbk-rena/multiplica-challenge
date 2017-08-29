@@ -1,0 +1,28 @@
+#informacion{
+    margin: 5vw;
+}
+aside, #planUno, #proxCompra, #ofertas {
+    padding: 3vw;
+    border: solid .5px #000;
+}
+#navSesion{
+    display: none;
+}
+.status{
+ background: #2c82be;    
+}
+#credito{
+    color: #161032;
+}
+#digitales{
+    color: #75c8f6;
+}
+#seguros{
+    color: #53a8e2;
+}
+#capacitacion{
+    color: #76ddfb;
+}
+h4{
+    text-transform: uppercase;
+}
